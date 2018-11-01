@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">treeFrameSimple</string>
+    <string name="test_data">{"code":1000,"message":"成功","data":[{"id":1,"name":"生产物业","children":[{"id":7,"name":"保洁部","children":[],"parentId":1,"userNum":2},{"id":8,"name":"工程部","children":[],"parentId":1,"userNum":1},{"id":9,"name":"安防部","children":[],"parentId":1,"userNum":1},{"id":10,"name":"客服部","children":[],"parentId":1,"userNum":0},{"id":11,"name":"技术部","children":[{"id":12,"name":"技术1组","children":[{"id":14,"name":"1小队","children":[],"parentId":12,"userNum":0}],"parentId":11,"userNum":2},{"id":13,"name":"技术2组","children":[],"parentId":11,"userNum":2}],"parentId":1,"userNum":5}],"parentId":0,"userNum":10}]}</string>
+
+</resources>
