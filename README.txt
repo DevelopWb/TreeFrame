@@ -1,5 +1,7 @@
-ÕâÊÇÒ»¸öÊ÷ĞÎ½á¹¹Õ¹Ê¾µÄÀı×Ó  Ê¹ÓÃµÚÈı·½¿âBaseRecyclerViewAdapterHelper×÷ÎªÊÊÅäÆ÷
-BaseRecyclerViewAdapterHelperµÄGitHubµØÖ·£ºhttps://github.com/CymChad/BaseRecyclerViewAdapterHelper
+è¿™æ˜¯ä¸€ä¸ªæ ‘å½¢ç»“æ„å±•ç¤ºçš„ä¾‹å­  ä½¿ç”¨ç¬¬ä¸‰æ–¹åº“BaseRecyclerViewAdapterHelperä½œä¸ºé€‚é…å™¨
+BaseRecyclerViewAdapterHelperçš„GitHubåœ°å€ï¼šhttps://github.com/CymChad/BaseRecyclerViewAdapterHelper
+=======
 
-BaseRecyclerViewAdapterHelperÀïÃæÓĞ½²ÈçºÎÊ÷ĞÎ½á¹¹Õ¹Ê¾Êı¾İ µ«ÊÇÃ»ÓĞÑ¡Ôñ¸÷¸ö²ã¼¶Ê÷ºó¸÷¸ö²ã¼¶µÄÁª¶¯Ñ¡ÖĞĞ§¹û£¬±¾Àı×Ó
-Ìí¼ÓÁË  ¿ÉÒÔ²Î¿¼
+BaseRecyclerViewAdapterHelperé‡Œé¢æœ‰è®²å¦‚ä½•æ ‘å½¢ç»“æ„å±•ç¤ºæ•°æ® ä½†æ˜¯æ²¡æœ‰é€‰æ‹©å„ä¸ªå±‚çº§æ ‘åå„ä¸ªå±‚çº§çš„è”åŠ¨é€‰ä¸­æ•ˆæœï¼Œæœ¬ä¾‹å­
+æ·»åŠ äº†  å¯ä»¥å‚è€ƒ
+--------
